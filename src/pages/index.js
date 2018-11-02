@@ -6,7 +6,7 @@ import Image from '../components/image'
 const IndexPage = () => (
   <Layout>
     <div>
-      <p class="line-1 anim-typewriter">MushDoom powAA is BACK ? ? ?</p>
+      <p class="line-1 anim-typewriter">MushDoom powAA is BACK ?</p>
     </div>
     <div>
       <Image />
