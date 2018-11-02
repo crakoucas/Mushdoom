@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Mushdoom Reborn',
+    title: '',
   },
   plugins: [
     'gatsby-plugin-react-helmet',

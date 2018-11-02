@@ -5,7 +5,10 @@ import Image from '../components/image'
 
 const IndexPage = () => (
   <Layout>
-    <div style={{ maxWidth: '800px', marginBottom: '1.45rem' }}>
+    <div>
+      <p class="line-1 anim-typewriter">MushDoom powAA is BACK ? ? ?</p>
+    </div>
+    <div>
       <Image />
     </div>
   </Layout>
