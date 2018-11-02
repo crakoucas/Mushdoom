@@ -1,8 +1,8 @@
 {
-  "name": "Mushdoom Reborn",
-  "description": "Mushdoom Site",
+  "name": "Mushdoom",
+  "description": "Mushdoom",
   "version": "1.0.0",
-  "author": "Rousset Renaud<crakoucas@gmail.com>",
+  "author": "RoussetRenaud<crakoucas@gmail.com>",
   "dependencies": {
     "gatsby": "^2.0.19",
     "gatsby-image": "^2.0.15",
